@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PANIN_ILYA_BACO.02.19_PRAKTIKA_5", "PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.csproj", "{A1100A6E-1DE2-47A7-9AB3-432931AB488B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1100A6E-1DE2-47A7-9AB3-432931AB488B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1100A6E-1DE2-47A7-9AB3-432931AB488B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1100A6E-1DE2-47A7-9AB3-432931AB488B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1100A6E-1DE2-47A7-9AB3-432931AB488B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05975A13-A48A-4FF6-930A-8DF8F429C86C}
+	EndGlobalSection
+EndGlobal

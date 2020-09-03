@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\bin\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.exe
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\bin\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.deps.json
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\bin\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.runtimeconfig.json
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\bin\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.runtimeconfig.dev.json
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\bin\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.dll
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\bin\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.pdb
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\obj\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\obj\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\obj\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.AssemblyInfo.cs
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\obj\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.dll
+C:\Users\student\source\repos\Panin_2\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\PANIN_ILYA_BACO.02.19_PRAKTIKA_5\obj\Debug\netcoreapp3.1\PANIN_ILYA_BACO.02.19_PRAKTIKA_5.pdb

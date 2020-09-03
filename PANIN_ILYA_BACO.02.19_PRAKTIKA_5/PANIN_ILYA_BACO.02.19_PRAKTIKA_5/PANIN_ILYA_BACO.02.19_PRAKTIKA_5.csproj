@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PANIN_ILYA_BACO._02._19_PRAKTIKA_5</RootNamespace>
+  </PropertyGroup>
+
+</Project>
